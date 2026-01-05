@@ -325,10 +325,6 @@ export default TwitterWordAnalyzer;
 ```
 
 ---
-
-**9. Файл: `.gitignore`**
-```
-# Logs
 logs
 *.log
 npm-debug.log*
